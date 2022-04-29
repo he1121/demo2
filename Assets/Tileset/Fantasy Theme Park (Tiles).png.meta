@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: b029944756eed544198b0eab67ba57aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4761037259513819955
+    second: Fantasy Theme Park (Tiles)_0
+  - first:
+      213: -9213849558790112657
+    second: Fantasy Theme Park (Tiles)_1
+  - first:
+      213: 3543911146110171694
+    second: Fantasy Theme Park (Tiles)_2
+  - first:
+      213: 4521921184324472307
+    second: Fantasy Theme Park (Tiles)_3
+  - first:
+      213: -8302191395283156709
+    second: Fantasy Theme Park (Tiles)_4
+  - first:
+      213: 3351563330899519013
+    second: Fantasy Theme Park (Tiles)_5
+  - first:
+      213: -2025223792371162060
+    second: Fantasy Theme Park (Tiles)_6
+  - first:
+      213: 1151854496400836237
+    second: Fantasy Theme Park (Tiles)_7
+  - first:
+      213: -7275218440563393313
+    second: Fantasy Theme Park (Tiles)_8
+  - first:
+      213: -4184322030760254749
+    second: Fantasy Theme Park (Tiles)_9
+  - first:
+      213: -8511690035158622872
+    second: Fantasy Theme Park (Tiles)_10
+  - first:
+      213: 5023724531782284610
+    second: Fantasy Theme Park (Tiles)_11
+  - first:
+      213: -5420934939904996654
+    second: Fantasy Theme Park (Tiles)_12
+  - first:
+      213: -8040191879496801531
+    second: Fantasy Theme Park (Tiles)_13
+  - first:
+      213: 2533653944868612516
+    second: Fantasy Theme Park (Tiles)_14
+  - first:
+      213: -5907818051147614488
+    second: Fantasy Theme Park (Tiles)_15
+  - first:
+      213: 7663456884481395910
+    second: Fantasy Theme Park (Tiles)_16
+  - first:
+      213: -7387341261051617845
+    second: Fantasy Theme Park (Tiles)_17
+  - first:
+      213: 140371428681370625
+    second: Fantasy Theme Park (Tiles)_18
+  - first:
+      213: -6551166102092912198
+    second: Fantasy Theme Park (Tiles)_19
+  - first:
+      213: 2668884682973144234
+    second: Fantasy Theme Park (Tiles)_20
+  - first:
+      213: -1145934606367584801
+    second: Fantasy Theme Park (Tiles)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33378b7992a921240800000000000000
+      internalID: 4761037259513819955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6afc62b4a4d12080800000000000000
+      internalID: -9213849558790112657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ab17339608e2130800000000000000
+      internalID: 3543911146110171694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd49f5eb5711ce30800000000000000
+      internalID: 4521921184324472307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c7d2b9e0b8cc80800000000000000
+      internalID: -8302191395283156709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 236
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526ad749715238e20800000000000000
+      internalID: 3351563330899519013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 195
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4342c01e0b5f4e3e0800000000000000
+      internalID: -2025223792371162060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8688eacf853cff00800000000000000
+      internalID: 1151854496400836237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 196
+        width: 90
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf8d2cf5b390b90800000000000000
+      internalID: -7275218440563393313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 90
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a1b2584d4ee5c0800000000000000
+      internalID: -4184322030760254749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 196
+        width: 90
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5328820760e980800000000000000
+      internalID: -8511690035158622872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 146
+        width: 90
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2457c4648dad7b540800000000000000
+      internalID: 5023724531782284610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 149
+        width: 90
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da857cb468f4c4b0800000000000000
+      internalID: -5420934939904996654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 148
+        width: 90
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ec9895108b6090800000000000000
+      internalID: -8040191879496801531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 119
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a929a7c6d8592320800000000000000
+      internalID: 2533653944868612516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6b4bf88c6330ea0800000000000000
+      internalID: -5907818051147614488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 119
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc09070f611a5a60800000000000000
+      internalID: 7663456884481395910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 119
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd9e6c4344ea7990800000000000000
+      internalID: -7387341261051617845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cca271213b2f100800000000000000
+      internalID: 140371428681370625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 6
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9eb24c3259515a0800000000000000
+      internalID: -6551166102092912198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa468139a78c90520800000000000000
+      internalID: 2668884682973144234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fantasy Theme Park (Tiles)_21
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 6
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd02a30c82d810f0800000000000000
+      internalID: -1145934606367584801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9a575eab6de8a1a4f8986632f882dd73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

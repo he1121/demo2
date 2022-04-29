@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: d857cde29bb486d44921ee2cd4d47566
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6184695344375595333
+    second: Blue Cave 2 (Tiles)_0
+  - first:
+      213: -3338624630233033172
+    second: Blue Cave 2 (Tiles)_1
+  - first:
+      213: -9193056397707260497
+    second: Blue Cave 2 (Tiles)_2
+  - first:
+      213: -5881798027188742772
+    second: Blue Cave 2 (Tiles)_3
+  - first:
+      213: -8714711422322193032
+    second: Blue Cave 2 (Tiles)_4
+  - first:
+      213: 9044987789039601571
+    second: Blue Cave 2 (Tiles)_5
+  - first:
+      213: 6002421829941378511
+    second: Blue Cave 2 (Tiles)_6
+  - first:
+      213: 8619280900756438329
+    second: Blue Cave 2 (Tiles)_7
+  - first:
+      213: -132500634562782453
+    second: Blue Cave 2 (Tiles)_8
+  - first:
+      213: 1765553491614611707
+    second: Blue Cave 2 (Tiles)_9
+  - first:
+      213: 5104128689310220657
+    second: Blue Cave 2 (Tiles)_10
+  - first:
+      213: 3638804481353500684
+    second: Blue Cave 2 (Tiles)_11
+  - first:
+      213: 3989980595047203156
+    second: Blue Cave 2 (Tiles)_12
+  - first:
+      213: 8875854736416101462
+    second: Blue Cave 2 (Tiles)_13
+  - first:
+      213: 219374679510420577
+    second: Blue Cave 2 (Tiles)_14
+  - first:
+      213: -2377435703299148071
+    second: Blue Cave 2 (Tiles)_15
+  - first:
+      213: 2403089185035056997
+    second: Blue Cave 2 (Tiles)_16
+  - first:
+      213: -3171967548043190891
+    second: Blue Cave 2 (Tiles)_17
+  - first:
+      213: 7112010058972978613
+    second: Blue Cave 2 (Tiles)_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 296
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbefa7a2a5c8b2aa0800000000000000
+      internalID: -6184695344375595333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26179c6692daa1d0800000000000000
+      internalID: -3338624630233033172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 296
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc686c9e3bb6080800000000000000
+      internalID: -9193056397707260497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8552dc7bd7af5ea0800000000000000
+      internalID: -5881798027188742772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 253
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d427842202f0780800000000000000
+      internalID: -8714711422322193032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 198
+        width: 90
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a78373c870468d70800000000000000
+      internalID: 9044987789039601571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb4b52ad2ec4350800000000000000
+      internalID: 6002421829941378511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 90
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d75e4ff46dd9770800000000000000
+      internalID: 8619280900756438329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 190
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1f58ff53492ef0800000000000000
+      internalID: -132500634562782453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b3abdb81808810800000000000000
+      internalID: 1765553491614611707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 121
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714736000285d640800000000000000
+      internalID: 5104128689310220657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08cc268561af7230800000000000000
+      internalID: 3638804481353500684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 120
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518d7c16324f5730800000000000000
+      internalID: 3989980595047203156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654dc024bde5d2b70800000000000000
+      internalID: 8875854736416101462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0fe4db106b0300800000000000000
+      internalID: 219374679510420577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 9
+        width: 90
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f584f2d6a10fd0800000000000000
+      internalID: -2377435703299148071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f895b1ec795120800000000000000
+      internalID: 2403089185035056997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 10
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d91d32258eaf3d0800000000000000
+      internalID: -3171967548043190891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Cave 2 (Tiles)_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 9
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdd614b77fe2b260800000000000000
+      internalID: 7112010058972978613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d60c0332fc487ec4982cd740247a26e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

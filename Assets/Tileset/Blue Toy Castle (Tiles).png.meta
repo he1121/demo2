@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: 0f3173b6c7a19d54b993b5fdd54165c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 716016857459707568
+    second: Blue Toy Castle (Tiles)_0
+  - first:
+      213: -6726963098951834000
+    second: Blue Toy Castle (Tiles)_1
+  - first:
+      213: -3288746323238016439
+    second: Blue Toy Castle (Tiles)_2
+  - first:
+      213: -4030340499855249651
+    second: Blue Toy Castle (Tiles)_3
+  - first:
+      213: 463536754848407291
+    second: Blue Toy Castle (Tiles)_4
+  - first:
+      213: -3070241367178249990
+    second: Blue Toy Castle (Tiles)_5
+  - first:
+      213: -4024410809146644136
+    second: Blue Toy Castle (Tiles)_6
+  - first:
+      213: -6967503407686058317
+    second: Blue Toy Castle (Tiles)_7
+  - first:
+      213: -4439286332282502543
+    second: Blue Toy Castle (Tiles)_8
+  - first:
+      213: 7294604672054823286
+    second: Blue Toy Castle (Tiles)_9
+  - first:
+      213: -1910995885849008194
+    second: Blue Toy Castle (Tiles)_10
+  - first:
+      213: -4982958933293604625
+    second: Blue Toy Castle (Tiles)_11
+  - first:
+      213: 833142613299199287
+    second: Blue Toy Castle (Tiles)_12
+  - first:
+      213: -1933765492905360011
+    second: Blue Toy Castle (Tiles)_13
+  - first:
+      213: 1635205896721267504
+    second: Blue Toy Castle (Tiles)_14
+  - first:
+      213: -179453729108482101
+    second: Blue Toy Castle (Tiles)_15
+  - first:
+      213: -6560662495151088711
+    second: Blue Toy Castle (Tiles)_16
+  - first:
+      213: -671107514901957774
+    second: Blue Toy Castle (Tiles)_17
+  - first:
+      213: 5290591397210587487
+    second: Blue Toy Castle (Tiles)_18
+  - first:
+      213: -1699594371635721329
+    second: Blue Toy Castle (Tiles)_19
+  - first:
+      213: -1898913417542404317
+    second: Blue Toy Castle (Tiles)_20
+  - first:
+      213: -3304009162708913023
+    second: Blue Toy Castle (Tiles)_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 444
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bec31ac98dcfe900800000000000000
+      internalID: 716016857459707568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 444
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a0d5d3b605a2a0800000000000000
+      internalID: -6726963098951834000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 443
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa60fb4a60c52d0800000000000000
+      internalID: -3288746323238016439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 442
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fe1464baa5118c0800000000000000
+      internalID: -4030340499855249651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 441
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe931df830de6600800000000000000
+      internalID: 463536754848407291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 441
+        width: 90
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af871ae4ebf4465d0800000000000000
+      internalID: -3070241367178249990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 401
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859629af0bb6628c0800000000000000
+      internalID: -4024410809146644136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 400
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be7c8de0947e4f90800000000000000
+      internalID: -6967503407686058317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 352
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1720e04e99c7462c0800000000000000
+      internalID: -4439286332282502543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 352
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798bbefc44ab3560800000000000000
+      internalID: 7294604672054823286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 352
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7acb0ed57ca75e0800000000000000
+      internalID: -1910995885849008194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0eca24049f8dab0800000000000000
+      internalID: -4982958933293604625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 296
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d70f8eacaef8b00800000000000000
+      internalID: 833142613299199287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 295
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c77c9782e925e0800000000000000
+      internalID: -1933765492905360011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf1b0791b61b610800000000000000
+      internalID: 1635205896721267504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 214
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7aedeb8c3728df0800000000000000
+      internalID: -179453729108482101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 214
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9a457838d3f4a0800000000000000
+      internalID: -6560662495151088711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 213
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737c28554fbfa6f0800000000000000
+      internalID: -671107514901957774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51897258d4fb6940800000000000000
+      internalID: 5290591397210587487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b46608ce3d968e0800000000000000
+      internalID: -1699594371635721329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 103
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3277920ce44b5a5e0800000000000000
+      internalID: -1898913417542404317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Toy Castle (Tiles)_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 102
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18479120c2dc522d0800000000000000
+      internalID: -3304009162708913023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: de2ed59bc5fe8764785a77d953ff1547
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

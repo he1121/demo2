@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: cbb1fb221ea6cc94a87d1164754fd80e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2128053535369704185
+    second: Taurospear_0
+  - first:
+      213: -224260968463249761
+    second: Taurospear_1
+  - first:
+      213: -8540465642125347937
+    second: Taurospear_2
+  - first:
+      213: 4437125957763745382
+    second: Taurospear_3
+  - first:
+      213: -8915348979379119566
+    second: Taurospear_4
+  - first:
+      213: 695589110725180045
+    second: Taurospear_5
+  - first:
+      213: -6018747708640269615
+    second: Taurospear_6
+  - first:
+      213: 8824145242822520469
+    second: Taurospear_7
+  - first:
+      213: 1143839325680817298
+    second: Taurospear_8
+  - first:
+      213: 7143205118117315997
+    second: Taurospear_9
+  - first:
+      213: 2842550417320992913
+    second: Taurospear_10
+  - first:
+      213: -2880017399967466245
+    second: Taurospear_12
+  - first:
+      213: 5123527600186283927
+    second: Taurospear_13
+  - first:
+      213: 2080824387719576952
+    second: Taurospear_14
+  - first:
+      213: 322455431220190335
+    second: Taurospear_16
+  - first:
+      213: 7721677423815448218
+    second: Taurospear_17
+  - first:
+      213: 4788979384441583944
+    second: Taurospear_18
+  - first:
+      213: 4045639433332357603
+    second: Taurospear_24
+  - first:
+      213: 5659483287588502394
+    second: Taurospear_30
+  - first:
+      213: 8514998392225165522
+    second: Taurospear_31
+  - first:
+      213: 8040076196456687655
+    second: Taurospear_32
+  - first:
+      213: -1689694969805273229
+    second: Taurospear_33
+  - first:
+      213: -7141786693220384290
+    second: Taurospear_34
+  - first:
+      213: -859965903396595266
+    second: Taurospear_35
+  - first:
+      213: -3522354616349720451
+    second: Taurospear_36
+  - first:
+      213: 8320464229037063981
+    second: Taurospear_37
+  - first:
+      213: 8360071760523032470
+    second: Taurospear_39
+  - first:
+      213: -3255099513181893743
+    second: Taurospear_41
+  - first:
+      213: 800969713100534802
+    second: Taurospear_42
+  - first:
+      213: 6527312093200477811
+    second: Taurospear_44
+  - first:
+      213: -8005835366152224683
+    second: Taurospear_46
+  - first:
+      213: 3982281869555408636
+    second: Taurospear_49
+  - first:
+      213: -3280212150605050037
+    second: Taurospear_50
+  - first:
+      213: 707877729659778680
+    second: Taurospear_51
+  - first:
+      213: 8793788387894510161
+    second: Taurospear_52
+  - first:
+      213: 5404888923841633912
+    second: Taurospear_53
+  - first:
+      213: 7043606758073999350
+    second: Taurospear_54
+  - first:
+      213: 6718842843139412721
+    second: Taurospear_55
+  - first:
+      213: 4454078507780227230
+    second: Taurospear_56
+  - first:
+      213: 8271953251921474624
+    second: Taurospear_57
+  - first:
+      213: -5993714822811964292
+    second: Taurospear_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Taurospear_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 951
+        width: 188
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2b9be5a6d588d10800000000000000
+      internalID: 2128053535369704185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 951
+        width: 190
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e43cd56d343ecf0800000000000000
+      internalID: -224260968463249761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 951
+        width: 188
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93b0b07fbb2a7980800000000000000
+      internalID: -8540465642125347937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 951
+        width: 190
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6664c28bc86d39d30800000000000000
+      internalID: 4437125957763745382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 951
+        width: 188
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a577bb651564480800000000000000
+      internalID: -8915348979379119566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 951
+        width: 190
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a776e5c9a37a900800000000000000
+      internalID: 695589110725180045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_6
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 951
+        width: 188
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daecc109dc197ca0800000000000000
+      internalID: -6018747708640269615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_7
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 951
+        width: 188
+        height: 125
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea3e49859a57a70800000000000000
+      internalID: 8824145242822520469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 780
+        width: 190
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d35f6ecbbfdf00800000000000000
+      internalID: 1143839325680817298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 780
+        width: 190
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9582276533c12360800000000000000
+      internalID: 7143205118117315997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 780
+        width: 190
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906e884b84c27720800000000000000
+      internalID: 2842550417320992913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_12
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 780
+        width: 190
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcbef70f6f1808d0800000000000000
+      internalID: -2880017399967466245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 781
+        width: 190
+        height: 123
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797530ee43d6a1740800000000000000
+      internalID: 5123527600186283927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 780
+        width: 190
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dbef581c290ec10800000000000000
+      internalID: 2080824387719576952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 623
+        width: 190
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c56c99187997400800000000000000
+      internalID: 322455431220190335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 429
+        width: 137
+        height: 232
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a965caca4b8e82b60800000000000000
+      internalID: 7721677423815448218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 429
+        width: 301
+        height: 249
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8493f46806fd57240800000000000000
+      internalID: 4788979384441583944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_24
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 429
+        width: 275
+        height: 218
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9761141aff42830800000000000000
+      internalID: 4045639433332357603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 429
+        width: 188
+        height: 163
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bf8f890168a8e40800000000000000
+      internalID: 5659483287588502394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_31
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 429
+        width: 265
+        height: 107
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d07a9f5ce95b2670800000000000000
+      internalID: 8514998392225165522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 215
+        width: 191
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728efd8d3b6149f60800000000000000
+      internalID: 8040076196456687655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_33
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 212
+        width: 191
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770ef9906ffc88e0800000000000000
+      internalID: -1689694969805273229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 212
+        width: 325
+        height: 108
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ccf067d643ec90800000000000000
+      internalID: -7141786693220384290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_35
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 212
+        width: 310
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb919113199c014f0800000000000000
+      internalID: -859965903396595266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_36
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 214
+        width: 320
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70848f73251e1fc0800000000000000
+      internalID: -3522354616349720451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_37
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 212
+        width: 316
+        height: 108
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3912f12a387370800000000000000
+      internalID: 8320464229037063981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_39
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 212
+        width: 311
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ffbef8f0f40470800000000000000
+      internalID: 8360071760523032470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_41
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 214
+        width: 312
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b0f303d3093d2d0800000000000000
+      internalID: -3255099513181893743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_42
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 212
+        width: 330
+        height: 108
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143439d5bd9d1b00800000000000000
+      internalID: 800969713100534802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_44
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 212
+        width: 315
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e635df3cba59a50800000000000000
+      internalID: 6527312093200477811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_46
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 212
+        width: 316
+        height: 129
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550cc36b62f85e090800000000000000
+      internalID: -8005835366152224683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 21
+        width: 188
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1456e248e34730800000000000000
+      internalID: 3982281869555408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 21
+        width: 188
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0447ad685a72d0800000000000000
+      internalID: -3280212150605050037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_51
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 21
+        width: 189
+        height: 116
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876f7cc6b03e2d900800000000000000
+      internalID: 707877729659778680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_52
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 21
+        width: 191
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152486282ffc90a70800000000000000
+      internalID: 8793788387894510161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 21
+        width: 191
+        height: 118
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e160407d5020b40800000000000000
+      internalID: 5404888923841633912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_54
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 21
+        width: 204
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff9a80270befb160800000000000000
+      internalID: 7043606758073999350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_55
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 21
+        width: 204
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f21007c7ff1e3d50800000000000000
+      internalID: 6718842843139412721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_56
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 21
+        width: 205
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9041f9ddc010dd30800000000000000
+      internalID: 4454078507780227230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_57
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 21
+        width: 203
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ba6be7a1ebc270800000000000000
+      internalID: 8271953251921474624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Taurospear_58
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 22
+        width: 204
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cac4def1c02dca0800000000000000
+      internalID: -5993714822811964292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a0b7e2f634c45a04f8c68c65fff3dd01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

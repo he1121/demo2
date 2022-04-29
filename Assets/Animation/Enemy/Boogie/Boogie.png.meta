@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: f4c1fa5fd7cd3d848a60ac7f641ddea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8449625988310101665
+    second: Boogie_0
+  - first:
+      213: -3083988669142815266
+    second: Boogie_1
+  - first:
+      213: -216760685814264592
+    second: Boogie_2
+  - first:
+      213: -68584669235055623
+    second: Boogie_3
+  - first:
+      213: -7652776069305582722
+    second: Boogie_4
+  - first:
+      213: -3188682134127185075
+    second: Boogie_5
+  - first:
+      213: 2606072107849473893
+    second: Boogie_6
+  - first:
+      213: 988937170765551595
+    second: Boogie_7
+  - first:
+      213: 8142321865197255102
+    second: Boogie_8
+  - first:
+      213: -2550821055998152005
+    second: Boogie_9
+  - first:
+      213: 5570303375273809193
+    second: Boogie_10
+  - first:
+      213: 8255365399975579974
+    second: Boogie_11
+  - first:
+      213: -1364035681008710122
+    second: Boogie_12
+  - first:
+      213: 3543199709761153290
+    second: Boogie_13
+  - first:
+      213: 1303549182517566058
+    second: Boogie_14
+  - first:
+      213: 8782809421411852605
+    second: Boogie_15
+  - first:
+      213: -2265153927255057058
+    second: Boogie_16
+  - first:
+      213: -3491362506498486261
+    second: Boogie_30
+  - first:
+      213: 6921236696989626232
+    second: Boogie_31
+  - first:
+      213: 754217675742601409
+    second: Boogie_32
+  - first:
+      213: -8085188252251061492
+    second: Boogie_33
+  - first:
+      213: -2426556836720554858
+    second: Boogie_34
+  - first:
+      213: -1805481359085922534
+    second: Boogie_35
+  - first:
+      213: -4097224134363144354
+    second: Boogie_36
+  - first:
+      213: 1856585336676843792
+    second: Boogie_37
+  - first:
+      213: 5760080657508762583
+    second: Boogie_38
+  - first:
+      213: 2721956896893704774
+    second: Boogie_39
+  - first:
+      213: 2359666864134338565
+    second: Boogie_40
+  - first:
+      213: 5358526952236916891
+    second: Boogie_41
+  - first:
+      213: 5520325183254343219
+    second: Boogie_42
+  - first:
+      213: 6531432489867073298
+    second: Boogie_43
+  - first:
+      213: 7469253276348213912
+    second: Boogie_44
+  - first:
+      213: -2685529074731679212
+    second: Boogie_45
+  - first:
+      213: 5474058357932058842
+    second: Boogie_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boogie_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aee12e711a134570800000000000000
+      internalID: 8449625988310101665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edda96425a87335d0800000000000000
+      internalID: -3083988669142815266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc45c00e49edfcf0800000000000000
+      internalID: -216760685814264592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f4315b965c0ff0800000000000000
+      internalID: -68584669235055623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 615
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3e6b06b0ebc590800000000000000
+      internalID: -7652776069305582722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43f6bd4e768fb3d0800000000000000
+      internalID: -3188682134127185075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 615
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fdb6746c0aa2420800000000000000
+      internalID: 2606072107849473893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 615
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be719a00e1969bd00800000000000000
+      internalID: 988937170765551595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 487
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97af5b8965ff070800000000000000
+      internalID: 8142321865197255102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 487
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2b4afa3c9a99cd0800000000000000
+      internalID: -2550821055998152005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 487
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925da563861bd4d40800000000000000
+      internalID: 5570303375273809193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 487
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641589ca713f09270800000000000000
+      internalID: 8255365399975579974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 487
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e848c66c8f11de0800000000000000
+      internalID: -1364035681008710122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_13
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 487
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a4940d59fb2130800000000000000
+      internalID: 3543199709761153290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_14
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 487
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad5333313271210800000000000000
+      internalID: 1303549182517566058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_15
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 487
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31253da2aec2e970800000000000000
+      internalID: 8782809421411852605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 365
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9164218e8090e0800000000000000
+      internalID: -2265153927255057058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b005a026c403c8fc0800000000000000
+      internalID: -3491362506498486261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 231
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe67a0b1c2d0060800000000000000
+      internalID: 6921236696989626232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 231
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c065f5eaf4877a00800000000000000
+      internalID: 754217675742601409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 231
+        width: 123
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030a6a2f14abcf80800000000000000
+      internalID: -8085188252251061492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_34
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 231
+        width: 121
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc9f7d963235ed0800000000000000
+      internalID: -2426556836720554858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_35
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 231
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17181f0544a1f6e0800000000000000
+      internalID: -1805481359085922534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 231
+        width: 121
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f902a9b5cb327c0800000000000000
+      internalID: -4097224134363144354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_37
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 231
+        width: 121
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01182dfe68ae3c910800000000000000
+      internalID: 1856585336676843792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_38
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 231
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3886cf6daefef40800000000000000
+      internalID: 5760080657508762583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_39
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 231
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a164d406556c520800000000000000
+      internalID: 2721956896893704774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_40
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 231
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508bcf8c2883fb020800000000000000
+      internalID: 2359666864134338565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_41
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 231
+        width: 121
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9020735fdf4d5a40800000000000000
+      internalID: 5358526952236916891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 23
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ea48891822c9c40800000000000000
+      internalID: 5520325183254343219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 23
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d8f89e3f44aa50800000000000000
+      internalID: 6531432489867073298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_44
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 23
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6822f74e18a760800000000000000
+      internalID: 7469253276348213912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_45
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 23
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41282aaf8851bbad0800000000000000
+      internalID: -2685529074731679212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boogie_46
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 17
+        width: 14
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad86c40e213c7fb40800000000000000
+      internalID: 5474058357932058842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 96e3807655b2a5f4da9f25af3ac99ff9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: faa56395aab97bd4e9d97d0662edeac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4785814017853288158
+    second: Halloween1 (Tiles)_0
+  - first:
+      213: 1045673365444911369
+    second: Halloween1 (Tiles)_1
+  - first:
+      213: -393177346742895187
+    second: Halloween1 (Tiles)_3
+  - first:
+      213: 2141488935101750601
+    second: Halloween1 (Tiles)_4
+  - first:
+      213: -5591674910091535966
+    second: Halloween1 (Tiles)_5
+  - first:
+      213: 8168206251314181269
+    second: Halloween1 (Tiles)_7
+  - first:
+      213: -4978769763196611281
+    second: Halloween1 (Tiles)_8
+  - first:
+      213: -6573114590295486117
+    second: Halloween1 (Tiles)_9
+  - first:
+      213: -8995868236716633062
+    second: Halloween1 (Tiles)_10
+  - first:
+      213: 3334965697910763828
+    second: Halloween1 (Tiles)_11
+  - first:
+      213: 4584314836576604387
+    second: Halloween1 (Tiles)_12
+  - first:
+      213: -8249947461795141660
+    second: Halloween1 (Tiles)_13
+  - first:
+      213: -8809924464334203626
+    second: Halloween1 (Tiles)_14
+  - first:
+      213: -6029172239754498279
+    second: Halloween1 (Tiles)_16
+  - first:
+      213: 3335876698823066122
+    second: Halloween1 (Tiles)_17
+  - first:
+      213: -3255432987343325449
+    second: Halloween1 (Tiles)_19
+  - first:
+      213: -4942411576545418153
+    second: Halloween1 (Tiles)_20
+  - first:
+      213: 6782266294881794964
+    second: Halloween1 (Tiles)_21
+  - first:
+      213: -6504827802263014696
+    second: Halloween1 (Tiles)_22
+  - first:
+      213: 1844261016033865087
+    second: Halloween1 (Tiles)_23
+  - first:
+      213: -1447995025964458607
+    second: Halloween1 (Tiles)_25
+  - first:
+      213: 4714865180899603621
+    second: Halloween1 (Tiles)_26
+  - first:
+      213: -5447948557790693113
+    second: Halloween1 (Tiles)_27
+  - first:
+      213: -3361697277241499314
+    second: Halloween1 (Tiles)_28
+  - first:
+      213: -701523636171705718
+    second: Halloween1 (Tiles)_29
+  - first:
+      213: 1336896642638132363
+    second: Halloween1 (Tiles)_31
+  - first:
+      213: 5189543020587425570
+    second: Halloween1 (Tiles)_32
+  - first:
+      213: 3899197473199271484
+    second: Halloween1 (Tiles)_34
+  - first:
+      213: 9162935296255934084
+    second: Halloween1 (Tiles)_39
+  - first:
+      213: -9001965680042420446
+    second: Halloween1 (Tiles)_43
+  - first:
+      213: 2604221347491554191
+    second: Halloween1 (Tiles)_45
+  - first:
+      213: 8219878744114152117
+    second: Halloween1 (Tiles)_52
+  - first:
+      213: -5570082917935228020
+    second: Halloween1 (Tiles)_55
+  - first:
+      213: -6007417528843258710
+    second: Halloween1 (Tiles)_61
+  - first:
+      213: -7362147868954165072
+    second: Halloween1 (Tiles)_64
+  - first:
+      213: -4528713603888062143
+    second: Halloween1 (Tiles)_68
+  - first:
+      213: -2618290669324328398
+    second: Halloween1 (Tiles)_69
+  - first:
+      213: 6484263563555974090
+    second: Halloween1 (Tiles)_70
+  - first:
+      213: 3696613435126057347
+    second: Halloween1 (Tiles)_71
+  - first:
+      213: -9023207885561707898
+    second: Halloween1 (Tiles)_72
+  - first:
+      213: 2486940973846978095
+    second: Halloween1 (Tiles)_73
+  - first:
+      213: -2486796158260556557
+    second: Halloween1 (Tiles)_74
+  - first:
+      213: 7686879506609019706
+    second: Halloween1 (Tiles)_75
+  - first:
+      213: 4563376054492738822
+    second: Halloween1 (Tiles)_76
+  - first:
+      213: -4859582227886250567
+    second: Halloween1 (Tiles)_77
+  - first:
+      213: -7837879340949577288
+    second: Halloween1 (Tiles)_78
+  - first:
+      213: -772928281178989201
+    second: Halloween1 (Tiles)_79
+  - first:
+      213: 7605601243797528362
+    second: Halloween1 (Tiles)_80
+  - first:
+      213: -6675274623999403922
+    second: Halloween1 (Tiles)_81
+  - first:
+      213: 212739103368053126
+    second: Halloween1 (Tiles)_82
+  - first:
+      213: -2833124104220749789
+    second: Halloween1 (Tiles)_83
+  - first:
+      213: -4435463364568090740
+    second: Halloween1 (Tiles)_84
+  - first:
+      213: -3436349290161533978
+    second: Halloween1 (Tiles)_85
+  - first:
+      213: 533842047160759163
+    second: Halloween1 (Tiles)_86
+  - first:
+      213: -670263403940125765
+    second: Halloween1 (Tiles)_87
+  - first:
+      213: -6164481140047201121
+    second: Halloween1 (Tiles)_88
+  - first:
+      213: -6062204193652644150
+    second: Halloween1 (Tiles)_89
+  - first:
+      213: -1164143557822795265
+    second: Halloween1 (Tiles)_90
+  - first:
+      213: 6430003840873329289
+    second: Halloween1 (Tiles)_91
+  - first:
+      213: 8819777935728147549
+    second: Halloween1 (Tiles)_92
+  - first:
+      213: -7520706125981713021
+    second: Halloween1 (Tiles)_93
+  - first:
+      213: -554799215322681949
+    second: Halloween1 (Tiles)_94
+  - first:
+      213: -7366341428609639406
+    second: Halloween1 (Tiles)_95
+  - first:
+      213: -5782667169736576188
+    second: Halloween1 (Tiles)_96
+  - first:
+      213: -4651697691433694607
+    second: Halloween1 (Tiles)_97
+  - first:
+      213: -7120629332908725060
+    second: Halloween1 (Tiles)_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 82
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22115c0d18f559db0800000000000000
+      internalID: -4785814017853288158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 329
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016e6ab26af28e00800000000000000
+      internalID: 1045673365444911369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 329
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb8a949472b8af0800000000000000
+      internalID: -393177346742895187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 329
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5b2327d818bd10800000000000000
+      internalID: 2141488935101750601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 83
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a997849b416662b0800000000000000
+      internalID: -5591674910091535966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 81
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f4bdfe4c4b5170800000000000000
+      internalID: 8168206251314181269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 650
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25d53e674bd7eab0800000000000000
+      internalID: -4978769763196611281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 213
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5110812b1b97c4a0800000000000000
+      internalID: -6573114590295486117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 213
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1419483081482380800000000000000
+      internalID: -8995868236716633062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 650
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431751202ad284e20800000000000000
+      internalID: 3334965697910763828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 328
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e093bc1e02ce9f30800000000000000
+      internalID: 4584314836576604387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 935
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a01c5e7c428d80800000000000000
+      internalID: -8249947461795141660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615165d606cdcb580800000000000000
+      internalID: -8809924464334203626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1185
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f69c7bac3145ca0800000000000000
+      internalID: -6029172239754498279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1078
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020adfee2a6b4e20800000000000000
+      internalID: 3335876698823066122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ff4f22f062d2d0800000000000000
+      internalID: -3255432987343325449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7546b3e6bd6096bb0800000000000000
+      internalID: -4942411576545418153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 680
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bb88ed2437f1e50800000000000000
+      internalID: 6782266294881794964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23701f3953ab5a0800000000000000
+      internalID: -6504827802263014696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7daccd6f91289910800000000000000
+      internalID: 1844261016033865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 779
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d1bd81230b7ebe0800000000000000
+      internalID: -1447995025964458607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 944
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f06fc6e09e6140800000000000000
+      internalID: 4714865180899603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 83
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709b842b6aff464b0800000000000000
+      internalID: -5447948557790693113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 779
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416f9b232ad851d0800000000000000
+      internalID: -3361697277241499314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1078
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82f17048ffa346f0800000000000000
+      internalID: -701523636171705718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1185
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84bbddc96c9d8210800000000000000
+      internalID: 1336896642638132363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_32
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f98b0c1e5f40840800000000000000
+      internalID: 5189543020587425570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea42b617bbc1630800000000000000
+      internalID: 3899197473199271484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 679
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3939ca19492f70800000000000000
+      internalID: 9162935296255934084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 779
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22750d098e7921380800000000000000
+      internalID: -9001965680042420446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 778
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8329bd848d042420800000000000000
+      internalID: 2604221347491554191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 330
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b245bfba20e21270800000000000000
+      internalID: 8219878744114152117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_55
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 329
+        width: 90
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdff2091713b2b0800000000000000
+      internalID: -5570082917935228020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 257
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4b7df069d51aca0800000000000000
+      internalID: -6007417528843258710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 258
+        width: 90
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0861ff48564d990800000000000000
+      internalID: -7362147868954165072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_68
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e5cea8f6c621c0800000000000000
+      internalID: -4528713603888062143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_69
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23224303286f9abd0800000000000000
+      internalID: -2618290669324328398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1265
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb23cf1b5bbcf950800000000000000
+      internalID: 6484263563555974090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1181
+        width: 81
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38900a075520d4330800000000000000
+      internalID: 3696613435126057347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_72
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1187
+        width: 77
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682479e2c3027c280800000000000000
+      internalID: -9023207885561707898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1187
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e538ba3a3638220800000000000000
+      internalID: 2486940973846978095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_74
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1164
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcc216d1102d7dd0800000000000000
+      internalID: -2486796158260556557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_75
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1084
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b19a63f284daa60800000000000000
+      internalID: 7686879506609019706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1085
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6053090085e545f30800000000000000
+      internalID: 4563376054492738822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_77
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1085
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e90ef5bb4f8cb0800000000000000
+      internalID: -4859582227886250567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_78
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1078
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e35a24424a3390800000000000000
+      internalID: -7837879340949577288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 950
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d197bc2d10645f0800000000000000
+      internalID: -772928281178989201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 952
+        width: 90
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f12d7f8068c8960800000000000000
+      internalID: 7605601243797528362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_81
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68165ab819ac53a0800000000000000
+      internalID: -6675274623999403922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681861e561dc3f200800000000000000
+      internalID: 212739103368053126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320535343a8bea8d0800000000000000
+      internalID: -2833124104220749789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_84
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 834
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f8ace1911272c0800000000000000
+      internalID: -4435463364568090740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 779
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb81c3f682af40d0800000000000000
+      internalID: -3436349290161533978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 780
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b733f237386986700800000000000000
+      internalID: 533842047160759163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_87
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 650
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3643e3cfeb2b6f0800000000000000
+      internalID: -670263403940125765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 650
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c34ee501d537aa0800000000000000
+      internalID: -6164481140047201121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_89
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 528
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66371a769bedba0800000000000000
+      internalID: -6062204193652644150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 529
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1b9602a9128dfe0800000000000000
+      internalID: -1164143557822795265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_91
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 527
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f6a7fc66fb3950800000000000000
+      internalID: 6430003840873329289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_92
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 529
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c77e8ad45266a70800000000000000
+      internalID: 8819777935728147549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_93
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d71c4ff9511a790800000000000000
+      internalID: -7520706125981713021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada6099d05fc48f0800000000000000
+      internalID: -554799215322681949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_95
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c9a7dcf7f75c990800000000000000
+      internalID: -7366341428609639406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_96
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 427
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b985d8d6dfbfa0800000000000000
+      internalID: -5782667169736576188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_97
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 213
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a079b6899d17fb0800000000000000
+      internalID: -4651697691433694607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween1 (Tiles)_98
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 214
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcafb239517e2d90800000000000000
+      internalID: -7120629332908725060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e5d02340f8b70164d870e2a863eda072
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

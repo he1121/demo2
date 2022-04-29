@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: f1fba82b6d158fc4a895ef4fa76d1b16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2749209723838664260
+    second: Valefor_0
+  - first:
+      213: -4567938214632975513
+    second: Valefor_1
+  - first:
+      213: 4178699605047415253
+    second: Valefor_2
+  - first:
+      213: 9082351341946294567
+    second: Valefor_4
+  - first:
+      213: 5746398709171741435
+    second: Valefor_5
+  - first:
+      213: -4677145353142417642
+    second: Valefor_6
+  - first:
+      213: -6439428005166865271
+    second: Valefor_7
+  - first:
+      213: 1752354789750216678
+    second: Valefor_8
+  - first:
+      213: -161305293637551625
+    second: Valefor_9
+  - first:
+      213: -6978877223843592243
+    second: Valefor_10
+  - first:
+      213: -4782333301056492116
+    second: Valefor_11
+  - first:
+      213: 3134291659129967486
+    second: Valefor_12
+  - first:
+      213: -3202072190146434171
+    second: Valefor_13
+  - first:
+      213: -1959094910711010056
+    second: Valefor_14
+  - first:
+      213: 3067225491060414773
+    second: Valefor_15
+  - first:
+      213: 6649241814865677175
+    second: Valefor_17
+  - first:
+      213: -2277949017399924884
+    second: Valefor_18
+  - first:
+      213: 6555309364602881285
+    second: Valefor_19
+  - first:
+      213: 19106313016202805
+    second: Valefor_20
+  - first:
+      213: 3443574983092952089
+    second: Valefor_21
+  - first:
+      213: 2456970331716335342
+    second: Valefor_22
+  - first:
+      213: 5587745169514893800
+    second: Valefor_23
+  - first:
+      213: 3202988560290800460
+    second: Valefor_24
+  - first:
+      213: 8375760937929056839
+    second: Valefor_25
+  - first:
+      213: 1121893233356516516
+    second: Valefor_26
+  - first:
+      213: 4934362836625460998
+    second: Valefor_28
+  - first:
+      213: -3869971877792720261
+    second: Valefor_30
+  - first:
+      213: 9209288108778796934
+    second: Valefor_32
+  - first:
+      213: -2970746837222726179
+    second: Valefor_34
+  - first:
+      213: -5935817212888761646
+    second: Valefor_35
+  - first:
+      213: 6631430425945002579
+    second: Valefor_36
+  - first:
+      213: -2846574263440066935
+    second: Valefor_39
+  - first:
+      213: 4270773596424662504
+    second: Valefor_40
+  - first:
+      213: -7626707427551014275
+    second: Valefor_41
+  - first:
+      213: 7127081171001778736
+    second: Valefor_42
+  - first:
+      213: 5634338950149613436
+    second: Valefor_44
+  - first:
+      213: -6718754396426433512
+    second: Valefor_54
+  - first:
+      213: 4528824842697869902
+    second: Valefor_56
+  - first:
+      213: -3436426579745454126
+    second: Valefor_57
+  - first:
+      213: -7924755287711912504
+    second: Valefor_58
+  - first:
+      213: -1075074203197792409
+    second: Valefor_59
+  - first:
+      213: 2765712125049015281
+    second: Valefor_60
+  - first:
+      213: 6202131289317356125
+    second: Valefor_61
+  - first:
+      213: -880003385407426994
+    second: Valefor_62
+  - first:
+      213: 7106209030654133757
+    second: Valefor_63
+  - first:
+      213: -2290442800530727071
+    second: Valefor_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valefor_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 836
+        width: 116
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fb857258d8d9d0800000000000000
+      internalID: -2749209723838664260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 836
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639ed0556c6b90c0800000000000000
+      internalID: -4567938214632975513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 836
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19aeda629bdf930800000000000000
+      internalID: 4178699605047415253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 836
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215006dc6efa0e70800000000000000
+      internalID: 9082351341946294567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 836
+        width: 117
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2e1f52e2f4fbf40800000000000000
+      internalID: 5746398709171741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 717
+        width: 136
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617c317f411771fb0800000000000000
+      internalID: -4677145353142417642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 717
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a35bc85e82a6a0800000000000000
+      internalID: -6439428005166865271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 718
+        width: 129
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7148b956d915810800000000000000
+      internalID: 1752354789750216678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 718
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f758a0bde2cdf0800000000000000
+      internalID: -161305293637551625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 718
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70dbdf32c062f90800000000000000
+      internalID: -6978877223843592243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 718
+        width: 141
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cada109533db1adb0800000000000000
+      internalID: -4782333301056492116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 139
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7359e468ad3f7b20800000000000000
+      internalID: 3134291659129967486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 578
+        width: 143
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b2a21fe44ff83d0800000000000000
+      internalID: -3202072190146434171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 578
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6bc5fe85efc4e0800000000000000
+      internalID: -1959094910711010056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 578
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539dda05559f09a20800000000000000
+      internalID: 3067225491060414773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_17
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 578
+        width: 139
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0eb0933ad64c50800000000000000
+      internalID: 6649241814865677175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_18
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 578
+        width: 133
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c676d6110791360e0800000000000000
+      internalID: -2277949017399924884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_19
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 578
+        width: 148
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50542f5b22329fa50800000000000000
+      internalID: 6555309364602881285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_20
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 578
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365c482711e34000800000000000000
+      internalID: 19106313016202805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_21
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 578
+        width: 139
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5da8c3390acf20800000000000000
+      internalID: 3443574983092952089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_22
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 578
+        width: 133
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee630a5cf79e81220800000000000000
+      internalID: 2456970331716335342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 414
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1175460a8ab8d40800000000000000
+      internalID: 5587745169514893800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 412
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e5cb102d437c20800000000000000
+      internalID: 3202988560290800460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 408
+        width: 165
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742aad4423eac3470800000000000000
+      internalID: 8375760937929056839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 405
+        width: 188
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2122a3f3c19f00800000000000000
+      internalID: 1121893233356516516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_28
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 405
+        width: 265
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f03f54bd06a7440800000000000000
+      internalID: 4934362836625460998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_30
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 400
+        width: 275
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad965c4191b4ac0800000000000000
+      internalID: -3869971877792720261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_32
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 398
+        width: 240
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6873df5fdb6fdcf70800000000000000
+      internalID: 9209288108778796934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_34
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 399
+        width: 185
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd569b1cd79c5c6d0800000000000000
+      internalID: -2970746837222726179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_35
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 402
+        width: 108
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabd16b1bdbf9da0800000000000000
+      internalID: -5935817212888761646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_36
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 406
+        width: 125
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525b2b66d2970c50800000000000000
+      internalID: 6631430425945002579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 254
+        width: 136
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b2e80acfee78d0800000000000000
+      internalID: -2846574263440066935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed620b55f5d44b30800000000000000
+      internalID: 4270773596424662504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 250
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721dfea00e782690800000000000000
+      internalID: -7626707427551014275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_42
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 252
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032afea609a78e260800000000000000
+      internalID: 7127081171001778736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 126
+        width: 158
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a0d35c61313e40800000000000000
+      internalID: 5634338950149613436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 116
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c88e3597032c2a0800000000000000
+      internalID: -6718754396426433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 155
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a88fe133e99de30800000000000000
+      internalID: 4528824842697869902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 15
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7cf819b3c5f40d0800000000000000
+      internalID: -3436426579745454126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_58
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 12
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd68009d0d950290800000000000000
+      internalID: -7924755287711912504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_59
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 11
+        width: 142
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f953b45b19411f0800000000000000
+      internalID: -1075074203197792409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_60
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 10
+        width: 146
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb898c3688c16620800000000000000
+      internalID: 2765712125049015281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_61
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 10
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52b81e1c85621650800000000000000
+      internalID: 6202131289317356125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_62
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 12
+        width: 153
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e26ab559999c3f0800000000000000
+      internalID: -880003385407426994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_63
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 12
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df500db86735e9260800000000000000
+      internalID: 7106209030654133757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valefor_64
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 12
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd3008866b630e0800000000000000
+      internalID: -2290442800530727071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7ec12fb0dc8a03a4da626fc32024c250
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
